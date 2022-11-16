@@ -20,4 +20,20 @@
 
 # Architecture Interieur
 
-> D'accord au minimum nous aurons besoin d'un pc portable comportant :  
+> D'accord au minimum nous aurons besoin d'un pc portable comportant : 
+
+ Cpu : Il va nous falloir de 6 à 8 coeurs pour faire du multitache.
+
+ Gpu : Une carte ayant un bonne fréquence en Ghz plus on en a plus la vitesse de génération d'image de synthèse par exemple. (2060 to series 3000) 
+
+ Ram : aumoins 16 go
+
+ Stockage : 512 go mais toujours plus à l'aise avec 1 to voir plus
+
+ Refs :
+
+ -  `Predator Helios 300 PH315-54` C'est un très bon pc pour le multitâche et le rendu gra^hique.
+
+ # Audiovisuel
+
+ - 
