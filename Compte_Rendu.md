@@ -1,7 +1,6 @@
-# Séance 1
+# Labo_Hardware1
 
-
-## Labo_Hardware
+## Séance 
 
 ### Matinée
 
@@ -60,4 +59,7 @@ Et nous avons au final 4 PC sur 4 qui s'allume
 > Je n'ai pas trouvé de point négatif
 
 
+
+
+# Séance 2
 
